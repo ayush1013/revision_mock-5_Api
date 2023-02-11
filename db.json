@@ -27,8 +27,8 @@
       "name": "ayush",
       "title": "My Document",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
-      "category": "Tech",
-      "date": "2023-02-11",
+      "category": "Entertainment",
+      "date": "2023-02-12",
       "userId": 16,
       "likeCount": 5,
       "comment": [
@@ -43,8 +43,8 @@
       "name": "aman",
       "title": "My Document",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
-      "category": "Tech",
-      "date": "2023-02-11",
+      "category": "Business",
+      "date": "2023-03-11",
       "userId": 77,
       "likeCount": 0,
       "comment": [
@@ -58,8 +58,8 @@
       "name": "ayush",
       "title": "My Document",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
-      "category": "Tech",
-      "date": "2023-02-11",
+      "category": "Entertainment",
+      "date": "2023-04-11",
       "userId": 16,
       "likeCount": 1,
       "comment": [
@@ -72,8 +72,8 @@
       "name": "aman",
       "title": "My Document",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
-      "category": "Tech",
-      "date": "2023-02-11",
+      "category": "Business",
+      "date": "2023-05-11",
       "userId": 77,
       "likeCount": 2,
       "comment": [
@@ -86,10 +86,10 @@
     },
     {
       "name": "aman",
-      "title": "My Document",
+      "title": "Getting started",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
       "category": "Tech",
-      "date": "2023-02-11",
+      "date": "2023-02-10",
       "userId": 77,
       "likeCount": 2,
       "comment": [
@@ -102,7 +102,7 @@
     },
     {
       "name": "aman",
-      "title": "My Document",
+      "title": "Getting started",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
       "category": "Tech",
       "date": "2023-02-11",
@@ -118,10 +118,10 @@
     },
     {
       "name": "ayush",
-      "title": "My Document",
+      "title": "Basic",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
-      "category": "Tech",
-      "date": "2023-02-11",
+      "category": "Business",
+      "date": "2023-02-9",
       "userId": 16,
       "likeCount": 9,
       "comment": [
@@ -137,7 +137,7 @@
       "title": "My Document",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
       "category": "Tech",
-      "date": "2023-02-11",
+      "date": "2023-02-7",
       "userId": 52,
       "likeCount": 10,
       "comment": [
@@ -150,9 +150,9 @@
     },
     {
       "name": "piyush",
-      "title": "My Document",
+      "title": "About",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
-      "category": "Tech",
+      "category": "Lifestyle",
       "date": "2023-02-11",
       "userId": 52,
       "likeCount": 2,
@@ -169,8 +169,8 @@
       "name": "ayush",
       "title": "My Document",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
-      "category": "Tech",
-      "date": "2023-02-11",
+      "category": "Lifestyle",
+      "date": "2023-04-8",
       "userId": 16,
       "likeCount": 2,
       "comment": [
@@ -182,7 +182,7 @@
     },
     {
       "name": "aman",
-      "title": "My Document",
+      "title": "Document",
       "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
       "category": "Tech",
       "date": "2023-02-11",
@@ -195,6 +195,16 @@
       ],
       "id": 13,
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "ayush",
+      "title": "Default keyboard shortcuts",
+      "content": "All of the commands are in the Command Palette with the associated key binding (if it exists). If you forget a keyboard shortcut, use the Command Palette to help you out.",
+      "category": "Entertainment",
+      "date": "2023-02-28",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU",
+      "id": 60,
+      "userId": 16
     }
   ]
 }
