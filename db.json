@@ -1,0 +1,200 @@
+{
+  "users": [
+    {
+      "user_name": "ayush",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU",
+      "email": "ayush98277@gmail.com",
+      "pass": "1310ayush",
+      "id": 16
+    },
+    {
+      "user_name": "piyush",
+      "image": "https://sialifehospital.com/wp-content/uploads/2021/04/testimonial-1.png",
+      "email": "piyush@gmail.com",
+      "pass": "1234",
+      "id": 52
+    },
+    {
+      "user_name": "aman",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU",
+      "email": "aman@gmail.com",
+      "pass": "aman123",
+      "id": 77
+    }
+  ],
+  "blogs": [
+    {
+      "name": "ayush",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 16,
+      "likeCount": 5,
+      "comment": [
+        "Great",
+        "nice job",
+        "1 no."
+      ],
+      "id": 3,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "aman",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 77,
+      "likeCount": 0,
+      "comment": [
+        "Doing greate men",
+        "Nice"
+      ],
+      "id": 4,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "ayush",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 16,
+      "likeCount": 1,
+      "comment": [
+        "Nice"
+      ],
+      "id": 5,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "aman",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 77,
+      "likeCount": 2,
+      "comment": [
+        "Nice",
+        "Good job",
+        "exellent work"
+      ],
+      "id": 6,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "aman",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 77,
+      "likeCount": 2,
+      "comment": [
+        "Nice",
+        "Good job",
+        "exellent work"
+      ],
+      "id": 7,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "aman",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 77,
+      "likeCount": 2,
+      "comment": [
+        "Nice",
+        "Good job",
+        "exellent work"
+      ],
+      "id": 8,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "ayush",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 16,
+      "likeCount": 9,
+      "comment": [
+        "Nice",
+        "Good job",
+        "exellent work"
+      ],
+      "id": 9,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "piyush",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 52,
+      "likeCount": 10,
+      "comment": [
+        "Nice",
+        "Good job",
+        "exellent work"
+      ],
+      "id": 10,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "piyush",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 52,
+      "likeCount": 2,
+      "comment": [
+        "Nice",
+        "Good job",
+        "exellent work",
+        "Lage rho bhai"
+      ],
+      "id": 11,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "ayush",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 16,
+      "likeCount": 2,
+      "comment": [
+        "Good job",
+        "exellent work"
+      ],
+      "id": 12,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    },
+    {
+      "name": "aman",
+      "title": "My Document",
+      "content": "\"Tips and Tricks\" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence",
+      "category": "Tech",
+      "date": "2023-02-11",
+      "userId": 77,
+      "likeCount": 2,
+      "comment": [
+        "Nice",
+        "Good job",
+        "exellent work"
+      ],
+      "id": 13,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQq6gaTf6N93kzolH98ominWZELW881HqCgw&usqp=CAU"
+    }
+  ]
+}
